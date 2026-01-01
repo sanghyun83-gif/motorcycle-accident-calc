@@ -13,7 +13,7 @@ export const SITE = {
     tagline: "Free Settlement Estimator",
     description: "Calculate your motorcycle accident settlement value. Free 2026 calculator for bike crash injuries, road rash, helmet damage, and pain & suffering.",
     year: 2026,
-    baseUrl: "https://motorcycle-accident-calc.vercel.app",
+    baseUrl: "https://motorcycle.mysmartcalculators.com",
 };
 
 // ============================================
